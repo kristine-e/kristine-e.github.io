@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! I'm Kristine.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+How do I introduce myself? I exist, I guess.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I don't actually grow pineapples like a regular farmer. Rather, I like to think of myself as a farmer of knowledge.
 
+Knowledge of the fruit that the scientific world have deemed to be called the Ananas comosus - or that we, the general population, have come to know as the Pineapple.
 
-[jekyll-organization]: https://github.com/jekyll
+Yes, my friends. I am obsessed with this fruit.
+
+And thus, my love for the sweet sunshine fruit has lead me to explore further what we know about it.
+
+My memory is not the sharpest so I have arranged a space on the internet to keep record of my findings.
+
+We, at Kristine's pineapple farm, hope you enjoy your stay and learn more about pineapples every day!!

@@ -1,29 +1,19 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-02-19 00:20:16 +1300
+title:  "Not really a farmer"
+date:   2023-02-19 20:09:35 +1300
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Howdy do! This is Kristine, I am not really an actual pineapple farmer in the sense that I grow pineapples, but I am one who is very fascinated by the Ananas comosus.
 
-Jekyll requires blog post files to be named according to the following format:
+However, though I do have an affinity for the typical yellow fruit, I feel that there is much I still do not know about them. Hence, I have allocated this space of the internet to document my discoveries to build my awareness of what the universe knows about the pineapple so far.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Yes, I am new to all this. It is not every day that one decides to document their journey to learn more about the fruit they have come to love. Alas, that shall not stop this determined farmer of knowledge!!
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+With the power of internet and by the sweet divine, we shall find out together, more about this humble fruit they call the pineapple.
 
-Jekyll also offers powerful support for code snippets:
+The first thing that I must figure out is how to make this space a bit more comfortable for my pineapples.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Stay tuned for more, my sweet sunshines.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+"Let all that you do be done in love." - 1 Corinthians 16:14 (ESV).
