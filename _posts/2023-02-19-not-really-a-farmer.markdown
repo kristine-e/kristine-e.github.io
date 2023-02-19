@@ -18,5 +18,4 @@ Stay tuned for more, my sweet sunshines.
 
 ![Pineapple with sunnies](/assets/images/pineapple-with-sunnies.png)
 
-"Let all that you do be done in love."
-- 1 Corinthians 16:14 (ESV).
+"Let all that you do be done in love." - 1 Corinthians 16:14 (ESV).
