@@ -9,7 +9,7 @@ Hello again, sunshines!!
 
 So, I've been messing around with this cool web app called [Scribble Diffusion](https://scribblediffusion.com/).
 
-It uses artificiall intelligence (or A.I.) to transform drawings into more refined images. Pretty neat, huh?
+It uses artificial intelligence (or A.I.) to transform drawings into more refined images. Pretty neat, huh?
 
 As you all know, I love pineapples! So, I tried sketching some of them.
 
