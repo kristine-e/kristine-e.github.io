@@ -2,7 +2,7 @@
 layout: post
 title:  "Not really a farmer"
 date:   2023-02-19 20:09:35 +1300
-categories: jekyll update
+categories: pineapples introductions
 ---
 Howdy do! This is Kristine, I am not really an actual pineapple farmer in the sense that I grow pineapples, but I am one who is very fascinated by the Ananas comosus.
 
