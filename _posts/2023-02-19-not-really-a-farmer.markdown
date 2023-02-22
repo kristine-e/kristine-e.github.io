@@ -4,7 +4,7 @@ title:  "Not really a farmer"
 date:   2023-02-19 20:09:35 +1300
 categories: pineapples introductions
 ---
-Howdy do! This is Kristine, I am not really an actual pineapple farmer in the sense that I grow pineapples, but I am one who is very fascinated by the Ananas comosus.
+Howdy do! This is Kristine, I am not really an actual pineapple farmer in the sense that I grow pineapples, but I am one who is very fascinated by the *Ananas comosus*.
 
 However, though I do have an affinity for the typical yellow fruit, I feel that there is much I still do not know about them. Hence, I have allocated this space of the internet to document my discoveries to build my awareness of what the universe knows about the pineapple so far.
 
