@@ -3,7 +3,7 @@ layout: post
 title:  "Drawing pineapples with A.I."
 date:   2023-02-22
 tag: artificial-intelligence
-categories: pineapples fun
+categories: pineapples art
 ---
 Hello again, sunshines!!
 
