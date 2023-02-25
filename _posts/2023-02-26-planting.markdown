@@ -2,8 +2,8 @@
 layout: post
 title:  "Planting"
 date:   2023-02-26
-tag: writing
-categories: pineapples
+tags: writing maths stats friendship
+categories: pineapples updates
 ---
 
 Hello again, my sweets!!
