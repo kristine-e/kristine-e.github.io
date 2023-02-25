@@ -2,10 +2,9 @@
 layout: post
 title:  "Planting"
 date:   2023-02-26
-tags: writing maths stats friendship
+tag: writing
 categories: pineapples updates
 ---
-
 Hello again, my sweets!!
 
 Behold, my latest creations from [Scribble Diffusion](https://scribblediffusion.com/).
