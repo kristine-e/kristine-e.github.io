@@ -29,6 +29,7 @@ github_username:  kristine-e
 
 # Build settings
 theme: minima
+future: true
 plugins:
   - jekyll-feed
 
