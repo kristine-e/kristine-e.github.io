@@ -47,9 +47,9 @@ Behold, our cute little painted pots (+ cacti &#127797;)!!
 
 ![Pots](/assets/pots.jpg)
 
-My dear friend painted the one on the right with the blue flowers~ &#127804;.
+My dear friend painted the one on the left with the blue flowers~ &#127804;.
 
-Yours truly painted the one on the left which looks oddly familiar to a particular much adored fruit... &#127821;
+Yours truly painted the one on the right which looks oddly familiar to a particular much adored fruit... &#127821;
 
 Truly, it is a wonderful feeling to feel the genuine love and kindness of a friend.
 
